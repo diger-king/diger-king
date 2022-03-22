@@ -1,10 +1,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diger-king&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🐯 Backend
-![Java_11](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyvblYTpX3_3MWL1A0RJSt_ghrkSynWYp3zQ&usqp=CAU)![Spring_Boot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSihjJ55XQW0rgkdYr1xv1SaBEtgZdNpjA5Ng&usqp=CAU)
-![Spring_Security](https://img1.daumcdn.net/thumb/R750x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FlyBZL%2Fbtq4dvWDj0F%2FdiamEqTdWrCOquEs0TZMjK%2Fimg.png) ![Spring_Data_JPA](https://blog.kakaocdn.net/dn/UC5Ua/btq4c0QnQen/gkC0S0fvRmjNUi2HqXkEZK/img.png)
-![Gradle](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTev49U7sQWB0XYihgoldUl1mi-rBmvY0BaZw&usqp=CAU)
-![Node.js](https://t1.daumcdn.net/cfile/tistory/267DC44F58720DF22A)
+![Java_11](https://img.shields.io/badge/java11-red?style=flat-square&logo=java&logoColor=white)
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring_Data_JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Spring_Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
 
 # 🐱 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=Mysql&logoColor=white)
