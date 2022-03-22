@@ -13,7 +13,10 @@
 
 # 🐿️ DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=Amazon-AWS&logoColor=white)
+![RDS](https://img.shields.io/badge/RDS-232F3E.svg?style=flat-square&logo=mysql&logoColor=#232F3E)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624.svg?style=flat-square&logo=Ubuntu&logoColor=#E95420)
 ![NGINX](https://img.shields.io/badge/NGINX-269539.svg?style=flat-square&logo=NGINX&logoColor=white)
+
 
 # 🐺 Front Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
