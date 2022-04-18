@@ -1,6 +1,7 @@
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diger-king&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
+
 # 성장 중인 컨텐츠
 
 ### 🐯 Backend
@@ -21,16 +22,14 @@
 ![NGINX](https://img.shields.io/badge/NGINX-269539.svg?style=flat-square&logo=NGINX&logoColor=white)
 
 
-### 🐺 맛보기
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white)
+# 기타 컨텐츠
+
+### 🐺 Etc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=Node.js&logoColor=white)
 ![express.js](https://img.shields.io/badge/express.js-000000.svg?style=flat-square&logo=express&logoColor=white)
 
-### 🦉 Etc
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)
