@@ -14,7 +14,6 @@
 
 ### 🐱 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=Mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=flat-square&logo=postgreSQL&logoColor=white)
 
 ### 🐿️ DevOp
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=Amazon-AWS&logoColor=white)
@@ -26,11 +25,6 @@
 # 기타 컨텐츠
 
 ### 🐺 Etc
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat-square&logo=TypeScript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat-square&logo=Node.js&logoColor=white)
-![express.js](https://img.shields.io/badge/express.js-000000.svg?style=flat-square&logo=express&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-square&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-square&logo=GitHub&logoColor=white)
