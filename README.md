@@ -15,7 +15,7 @@
 ### 🐱 Database
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=Mysql&logoColor=white)
 
-### 🐿️ DevOp
+### 🐿️ DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=Amazon-AWS&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-232F3E.svg?style=flat-square&logo=mysql&logoColor=#232F3E)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-FCC624.svg?style=flat-square&logo=Ubuntu&logoColor=#E95420)
