@@ -1,7 +1,4 @@
-<div align="center">
-
-[![Diger's GitHub stats](https://github-readme-stats.vercel.app/api?username=diger-king)](https://github.com/anuraghazra/github-readme-stats)
- 
+<div align="center"> 
 
 # 성장 중인 컨텐츠
 
