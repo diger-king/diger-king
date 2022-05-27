@@ -1,6 +1,6 @@
 <div align="center"> 
 
-# 성장 중인 컨텐츠
+# 훈련 중인 컨텐츠
 
 ## 🐯 Backend
 ![Java_11](https://img.shields.io/badge/java11-red?style=flat-square&logo=java&logoColor=white)
