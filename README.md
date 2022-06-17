@@ -5,11 +5,14 @@
  https://diger-king.github.io
   
  https://iamkdh.tistory.com
-  
+ 
+ ---
   
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdiger-king&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
- ### Things I've used
+ ---
+ 
+ ### Things that I'm training
 
 ![Java](https://img.shields.io/badge/java11-red?style=flat-square&logo=java&logoColor=white)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
