@@ -1,8 +1,7 @@
 <div align="center">
 
- ### Archive
+ ### [ Archive ]
  
- <br>
  
  ### main
  https://diger-king.github.io
@@ -12,7 +11,7 @@
  
  ---
  
- ### Things that I'm training
+ ### [ Things that I'm training ]
  
 <br>
  
