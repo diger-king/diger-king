@@ -6,7 +6,7 @@
  ### main
  https://diger-king.github.io
  
- ### previos
+ ### previous
  https://iamkdh.tistory.com
  
  ---
