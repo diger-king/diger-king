@@ -15,7 +15,7 @@
  
 <br>
  
-![Java](https://img.shields.io/badge/java-red?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=flat-square&logo=java&logoColor=white)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Spring_Data_JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Spring_Security](https://img.shields.io/badge/Spring_Security-6DB33F.svg?style=flat-square&logo=spring&logoColor=white)
