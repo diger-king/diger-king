@@ -11,7 +11,7 @@
  
  ---
  
- ### [ Things that I'm training ]
+ ### [ The things that I'm training ]
  
 <br>
 
