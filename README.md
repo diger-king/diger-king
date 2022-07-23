@@ -1,13 +1,13 @@
 <div align="center">
 
-### [ 프로젝트 ]
+## [ 프로젝트 ]
 [수원대학교 강의평가 사이트 API 서버 개발(배포본)](https://suwiki.kr)
 
 [수원대학교 강의평가 사이트 API 서버 개발(레포지토리)](https://github.com/uswLectureEvaluation/Backend-Remaster)
 
 ---
 
- ### [ 기록 ]
+ ## [ 기록 ]
  
  
  ### Backend 관련 기록
@@ -18,7 +18,7 @@
  
  ---
  
- ### [ 훈련 중 ]
+ ## [ 훈련 중 ]
  
 <br>
 
