@@ -5,14 +5,15 @@
 
 [수원대학교 강의평가 사이트 API 서버 개발(레포지토리)](https://github.com/uswLectureEvaluation/Backend-Remaster)
 
+---
 
  ### [ 기록 ]
  
  
- ### main
+ ### Backend 관련 기록
  https://diger-king.github.io
  
- ### previous
+ ### 알고리즘 연습 기록
  https://iamkdh.tistory.com
  
  ---
