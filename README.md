@@ -2,11 +2,17 @@
 
 # [ 프로젝트 ]
 
-[SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발(배포본)](https://suwiki.kr)
+### SUWIKI
 
-[SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발(레포지토리)](https://github.com/uswLectureEvaluation/Backend-Remaster)
+[SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발 (배포본)](https://suwiki.kr)
 
-[AritiStep - 무명 음악가들을 위한 커뮤니티 API 서버 개발(진행중)](https://github.com/Artistep/Backend)
+[SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발 (레포지토리)](https://github.com/uswLectureEvaluation/Backend-Remaster)
+
+<br>
+
+### Artistep
+
+[AritiStep - 무명 음악가들을 위한 커뮤니티 API 서버 개발 (진행중)](https://github.com/Artistep/Backend)
 
 ---
 
