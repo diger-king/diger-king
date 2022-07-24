@@ -1,4 +1,4 @@
-<div style="width: 50%; float: left">
+<div style="width: 20%; float: left">
 
 # 📽️ 참여한 프로젝트
 
@@ -14,7 +14,8 @@
 
 [AritiStep - 무명 음악가들을 위한 커뮤니티 API 서버 개발 (진행중)](https://github.com/Artistep/Backend)
 
----
+
+</div>
 
  <div style="width: 50%; float: right">
  
@@ -27,7 +28,6 @@
   https://iamkdh.tistory.com
   
  </div>
-</div>
 
 ---
 
