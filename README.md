@@ -32,9 +32,10 @@
 
 ---
 
- # 훈련 중
- 
-<br>
+<div align="center">
+
+
+ # 관심 분야
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat-circle&logo=java&logoColor=white)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-circle&logo=springboot&logoColor=white)
@@ -52,3 +53,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-circle&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-circle&logo=GitHub&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-circle&logo=markdown&logoColor=white)
+
+</div>
