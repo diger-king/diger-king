@@ -16,7 +16,7 @@
 
 ---
 
- <div style="width: 50%; float: right;">
+ <div style="width: 50%; float: right">
  
   # 기록
 
@@ -26,7 +26,6 @@
   ### 알고리즘 연습 기록
   https://iamkdh.tistory.com
   
-  ---
  </div>
 </div>
 
