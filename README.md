@@ -1,4 +1,28 @@
-<div align="center">
+<head>
+ <meta charset="utf-8">
+  <style>
+  div {
+   width: 100%;
+   height: 500px;
+   border: 1px solid #003458;
+  }
+  div.left {
+   width: 50%;
+   float: left;
+   box-sizing: border-box;
+   background: #8977ad;
+  }
+  div.right {
+   width: 50%;
+   float: right;
+   box-sizing: border-box;
+   background: #ece6cc;
+  }
+ </style>
+</head>
+
+
+<div align="left">
 
 # [ 프로젝트 ]
 
@@ -16,6 +40,10 @@
 
 ---
 
+</div>
+
+<div align="right">
+
  # [ 기록 ]
  
  
@@ -26,7 +54,8 @@
  https://iamkdh.tistory.com
  
  ---
- 
+</div>
+
  # [ 훈련 중 ]
  
 <br>
@@ -47,5 +76,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat-circle&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat-circle&logo=GitHub&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-circle&logo=markdown&logoColor=white)
-
-</div>
