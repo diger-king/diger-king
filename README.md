@@ -1,28 +1,4 @@
-<head>
- <meta charset="utf-8">
-  <style>
-  div {
-   width: 100%;
-   height: 500px;
-   border: 1px solid #003458;
-  }
-  div.left {
-   width: 50%;
-   float: left;
-   box-sizing: border-box;
-   background: #8977ad;
-  }
-  div.right {
-   width: 50%;
-   float: right;
-   box-sizing: border-box;
-   background: #ece6cc;
-  }
- </style>
-</head>
-
-
-<div align="left">
+<div style="width: 50% float: left">
 
 # [ 프로젝트 ]
 
@@ -40,20 +16,18 @@
 
 ---
 
-</div>
+ <div style="width: 50% float: right">
+ 
+  # [ 기록 ]
 
-<div align="right">
-
- # [ 기록 ]
- 
- 
- ### Backend 관련 기록
- https://diger-king.github.io
- 
- ### 알고리즘 연습 기록
- https://iamkdh.tistory.com
- 
- ---
+  ### Backend 관련 기록
+  https://diger-king.github.io
+  
+  ### 알고리즘 연습 기록
+  https://iamkdh.tistory.com
+  
+  ---
+ </div>
 </div>
 
  # [ 훈련 중 ]
