@@ -1,33 +1,31 @@
-<div style="width: 20%; float: left">
+<div style="width: 50%; float: left">
+    <div style="width: 50%; float: right">
 
-# 📽️ 참여한 프로젝트
+        # 📽️ 참여한 프로젝트
 
-### SUWIKI
+        ### SUWIKI
 
-[SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발 (배포본)](https://suwiki.kr)
+        [SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발 (배포본)](https://suwiki.kr)
 
-[SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발 (레포지토리)](https://github.com/uswLectureEvaluation/Backend-Remaster)
+        [SUWIKI - 수원대학교 강의평가 사이트 API 서버 개발 (레포지토리)](https://github.com/uswLectureEvaluation/Backend-Remaster)
 
-<br>
+        <br>
 
-### Artistep
+        ### Artistep
 
-[AritiStep - 무명 음악가들을 위한 커뮤니티 API 서버 개발 (진행중)](https://github.com/Artistep/Backend)
+        [AritiStep - 무명 음악가들을 위한 커뮤니티 API 서버 개발 (진행중)](https://github.com/Artistep/Backend)
 
+    </div>
+
+    # 📜 기록
+
+    ### Backend 관련 기록
+    https://diger-king.github.io
+        
+    ### 알고리즘 연습 기록
+    https://iamkdh.tistory.com
 
 </div>
-
- <div style="width: 50%; float: right">
- 
-  # 📜 기록
-
-  ### Backend 관련 기록
-  https://diger-king.github.io
-  
-  ### 알고리즘 연습 기록
-  https://iamkdh.tistory.com
-  
- </div>
 
 ---
 
