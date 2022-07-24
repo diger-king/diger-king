@@ -1,5 +1,27 @@
-<div style="width: 50%; float: left">
-    <div style="width: 50%; float: right">
+<style>
+.left-box {
+  float: left;
+  width: 50%;
+}
+.right-box {
+  float: right;
+  width: 50%;
+}
+</style>
+
+
+<div class = left-box>
+<div class = right-box>
+
+# 📜 기록
+
+### Backend 관련 기록
+https://diger-king.github.io
+        
+### 알고리즘 연습 기록
+https://iamkdh.tistory.com
+
+</div>
 
 # 📽️ 참여한 프로젝트
 
@@ -17,19 +39,9 @@
 
 </div>
 
-# 📜 기록
-
-### Backend 관련 기록
-https://diger-king.github.io
-        
-### 알고리즘 연습 기록
-https://iamkdh.tistory.com
-
-</div>
-
 ---
 
-<div align="center">
+<div align="left">
 
 
  # 💻 관심 분야
