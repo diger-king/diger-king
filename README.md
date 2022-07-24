@@ -1,17 +1,5 @@
-<style>
-.left-box {
-  float: left;
-  width: 50%;
-}
-.right-box {
-  float: right;
-  width: 50%;
-}
-</style>
-
-
-<div class = left-box>
-<div class = right-box>
+<div class = lefttest; style ="width=50%; float=left">
+<div class = righttest; style ="width=50%; float=right">
 
 # 📜 기록
 
