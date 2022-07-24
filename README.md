@@ -1,6 +1,6 @@
-<div style="width: 50% float: left">
+<div style="width: 50%; float: left">
 
-# [ 프로젝트 ]
+# 참여한 프로젝트
 
 ### SUWIKI
 
@@ -16,9 +16,9 @@
 
 ---
 
- <div style="width: 50% float: right">
+ <div style="width: 50%; float: right;">
  
-  # [ 기록 ]
+  # 기록
 
   ### Backend 관련 기록
   https://diger-king.github.io
@@ -30,7 +30,9 @@
  </div>
 </div>
 
- # [ 훈련 중 ]
+---
+
+ # 훈련 중
  
 <br>
 
