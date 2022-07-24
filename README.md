@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📽️ 참여한 프로젝트
+# 📽️ 참여한 프로젝트
 
 ### SUWIKI (수원대학교 강의평가 사이트)
 
@@ -10,19 +10,13 @@
 
 <br>
 
-
-
 ### Artistep (무명 음악가들을 위한 커뮤니티)
 
 [AritiStep - 무명 음악가들을 위한 커뮤니티 API 서버 개발 (진행중)](https://github.com/Artistep/Backend)
 
-<br>
-
 ---
 
-<br>
-
-## 📜 기록
+# 📜 기록
 
 ### Backend 관련 기록
 https://diger-king.github.io
@@ -30,13 +24,9 @@ https://diger-king.github.io
 ### 알고리즘 연습 기록
 https://iamkdh.tistory.com
 
-<br>
-
 ---
 
-<br>
-
- ## 💻 관심 분야
+ # 💻 관심 분야
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat-circle&logo=java&logoColor=white)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-circle&logo=springboot&logoColor=white)
