@@ -1,6 +1,6 @@
 <div style="width: 50%; float: left">
 
-# 참여한 프로젝트
+# 📽️ 참여한 프로젝트
 
 ### SUWIKI
 
@@ -18,7 +18,7 @@
 
  <div style="width: 50%; float: right">
  
-  # 기록
+  # 📜 기록
 
   ### Backend 관련 기록
   https://diger-king.github.io
@@ -34,7 +34,7 @@
 <div align="center">
 
 
- # 관심 분야
+ # 💻 관심 분야
 
 ![Java](https://img.shields.io/badge/Java-red?style=flat-circle&logo=java&logoColor=white)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat-circle&logo=springboot&logoColor=white)
