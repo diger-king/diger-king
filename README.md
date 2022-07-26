@@ -46,5 +46,3 @@ https://iamkdh.tistory.com
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-circle&logo=markdown&logoColor=white)
 
 ---
-
-<script src="https://gist.github.com/diger-king/5210badadf9f432ecf0f98e07aa12a1a.js"></script>
