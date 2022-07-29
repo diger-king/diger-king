@@ -22,7 +22,7 @@
 ### Java/Spring/Backend
 - https://diger-king.github.io
         
-### Alogorithm
+### Algorithm
 - https://iamkdh.tistory.com
 
 ---
