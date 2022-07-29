@@ -50,7 +50,7 @@
 
 ## 🗒️ 학습 내용 정리
 
-### Java/Spring Note
+### Java/Spring/Backend Note
 - [Java/Spring](https://github.com/MoveForword-Java) : Java/Spring 및 Backend 배경지식 주제 학습 후 토의
 
 
